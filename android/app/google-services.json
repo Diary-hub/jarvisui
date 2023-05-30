@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256451244558",
+    "project_id": "jarvis-31d79",
+    "storage_bucket": "jarvis-31d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256451244558:android:cd255bee4834c20313825f",
+        "android_client_info": {
+          "package_name": "com.example.jarvisui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp72ioizokZ1HzertRr_DQtEaro1gnt7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
